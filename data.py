@@ -18,7 +18,7 @@ class Data:
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Kira_Universe")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥♥ ", url="https://t.me/Kira_Universe")],
     ]
 
     START = """
